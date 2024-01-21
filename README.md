@@ -16,8 +16,7 @@ This challenge involves implementing application using github api.
 
 The services that you need to use are already implemented - check out ApiService.
 
-You can see details of this challenge [here]([https://fyleuniverse.notion.site/Fyle-Web-Development-Internship-Channel-17d5401b2ebf47cf90a77f7b39ec680c])
-[careers page]([https://careers.fylehq.com](https://fyleuniverse.notion.site/Fyle-Web-Development-Internship-Channel-17d5401b2ebf47cf90a77f7b39ec680c))
+You can see details of this challenge [here](https://fyleuniverse.notion.site/Fyle-Web-Development-Internship-Channel-17d5401b2ebf47cf90a77f7b39ec680c)
 
 __Note__ - This challenge is in angular. We work on angular frameworks & after you join we expect the same from you. Hence it is required to complete this assignement in angular itself.
 
